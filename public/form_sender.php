@@ -94,7 +94,7 @@ $headers = 'From: '.$email_from."\r\n".
 	      <div class="twelve columns centered">
 	      <br>
 	      <br>
-	        <h2>We'll be soon in touch !</h2>
+	        <h2>We'll be soon in touch!</h2>
 	      </div> 
 	    </div>
 
