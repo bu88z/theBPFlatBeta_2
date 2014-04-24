@@ -474,7 +474,7 @@ nav {
     
 .items a div h5 {
     display: block;
-    margin: 40% 20px 0px 20px;
+    margin: 20% 20px 0px 20px; /*title of use cases*/
     text-transform: uppercase;
     color: #FFF;
     font-size: 16px;
@@ -654,7 +654,7 @@ nav {
 /* Section */
 
 #whatwedo {
-	padding:40px 0px 40px 0; 
+	padding:40px 0px 40px 0px; 
 	background: #f1f1f1;}
 
 /* The Title of the service */
@@ -669,7 +669,7 @@ nav {
 
 #whatwedo img {
 	width: 100%; 
-	padding:10px;}
+	/*padding:10px;*/}
 	
 /* Style of each service */
 
@@ -677,7 +677,7 @@ nav {
 	background: #FFF;
 	border-bottom: 4px solid #e5e5e5;
 	margin-bottom: 20px;
-	padding:20px;}
+	padding:20px 0px 20px 20px;}
 
 
 
@@ -920,7 +920,7 @@ form input, .contact form input{
 
 
 
-/* 12. FOOTER CONTACT INFO SETTINGS ================================================== */
+/* 12. FOOTER CONTACT SETTINGS ================================================== */
 
 
 
